@@ -24,7 +24,7 @@ This project analyzes the year-on-year inflation rate in Ghana from July 2020 to
 
 ## 📁 Project Files
 
-- `ghana_inflation_analysis.xlsx`: The main Excel workbook containing the raw data, calculations, and the final chart.
+- `Ghana_Inflation_Analysis.xlsx`: The main Excel workbook containing the raw data, calculations, and the final chart.
 
 ## 🔚 Conclusion
 
